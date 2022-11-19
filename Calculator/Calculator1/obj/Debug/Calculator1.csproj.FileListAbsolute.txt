@@ -1,0 +1,7 @@
+C:\Users\Азамат\source\repos\Calculator\Calculator1\bin\Debug\Calculator1.exe.config
+C:\Users\Азамат\source\repos\Calculator\Calculator1\bin\Debug\Calculator1.exe
+C:\Users\Азамат\source\repos\Calculator\Calculator1\bin\Debug\Calculator1.pdb
+C:\Users\Азамат\source\repos\Calculator\Calculator1\obj\Debug\Calculator1.csproj.CoreCompileInputs.cache
+C:\Users\Азамат\source\repos\Calculator\Calculator1\obj\Debug\Calculator1.exe
+C:\Users\Азамат\source\repos\Calculator\Calculator1\obj\Debug\Calculator1.pdb
+C:\Users\Азамат\source\repos\Calculator\Calculator1\obj\Debug\Calculator1.csproj.AssemblyReference.cache
